@@ -1,0 +1,31 @@
+# ConverSight.ai
+
+> Agentic decision-intelligence platform for supply chain. ConverSight gives manufacturing, distribution, and retail organizations ready-to-deploy AI agents that automate planning, procurement, and optimization decisions, powered by the patented Athena AI engine over a Data Workbench, UniVerse knowledge layer, and workflow engine. Techstars-backed; serves 1,500+ supply chain organizations under SOC 2 Type II, ISO 27001, and GDPR compliance.
+
+## Company
+- [Website](https://conversight.ai/)
+- [Platform overview](https://conversight.ai/platform/)
+- [Integrations](https://conversight.ai/our-integrations/)
+- [Pricing](https://conversight.ai/choose-your-plan/)
+- [Blog](https://conversight.ai/blog/)
+- [Contact / Support](https://conversight.ai/contact/)
+
+## Docs
+- [Documentation portal](https://docs.conversight.ai/)
+- [Platform introduction](https://docs.conversight.ai/platform/index.html)
+- [Getting started / Logging in](https://docs.conversight.ai/platform/getting_started/02_login/login.html)
+- [Release notes](https://docs.conversight.ai/release_notes/index.html)
+- [Academy](https://academy.conversight.ai/)
+- [Community forum](https://community.conversight.ai/)
+
+## Product
+- [Sign in to the app](https://csnexus.conversight.dev/)
+- AI agents: Demand Planner, Supply Planner, Production Planner, Procurement, Inventory Optimizer, Supply Assurance, Supplier Scorecard, S&OP Coordinator
+- Pre-built connectors: SAP, Acumatica, Sage, NetSuite, Microsoft Dynamics, Snowflake, QuickBooks, Kinaxis, Fishbowl, Katana
+
+## Legal
+- [Terms of Use](https://conversight.ai/terms-of-use-3/)
+- [Privacy Policy](https://conversight.ai/privacy-policy/)
+
+## Notes
+- Method: generated from the API Evangelist catalog and ConverSight public pages (2026-07-18). No public OpenAPI/Swagger, SDK registry package, or /.well-known discovery documents were found; API access is documented inside the in-product Admin Guide.

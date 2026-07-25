@@ -1,7 +1,18 @@
 aid: conversightai
 name: ConverSight.ai
-description: ConverSight.ai is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  ConverSight.ai is an agentic decision-intelligence platform for supply chain,
+  giving manufacturing, distribution, and retail organizations AI agents that
+  automate routine planning, procurement, and optimization decisions. Its
+  patented Athena AI engine sits on a Data Workbench, a UniVerse knowledge
+  layer, and a workflow engine, and ships ready-to-deploy agents (Demand
+  Planner, Supply Planner, Production Planner, Procurement, Inventory Optimizer,
+  Supply Assurance, Supplier Scorecard, S&OP Coordinator) across four
+  intelligence levels from conversational assistant to autonomous AI employee.
+  Pre-built connectors and open APIs let it run alongside SAP, Acumatica, Sage,
+  NetSuite, Microsoft Dynamics, Snowflake, QuickBooks, Kinaxis, Fishbowl, and
+  Katana, and the company is a Techstars-backed venture serving 1,500+ supply
+  chain organizations under SOC 2 Type II, ISO 27001, and GDPR compliance.
 url: https://raw.githubusercontent.com/api-evangelist/conversightai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +20,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://conversight.ai/wp-content/uploads/2025/07/ConverSight.ai-Logo-Dark-1.webp
 tags:
 - Company
+- Artificial Intelligence
+- Supply Chain
+- Decision Intelligence
+- Agentic AI
+- Analytics
+- Data
+- Enterprise
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +54,43 @@ maintainers:
 common:
 - type: Website
   url: https://conversight.ai/
+- type: DeveloperPortal
+  url: https://docs.conversight.ai/
+- type: Documentation
+  url: https://docs.conversight.ai/platform/index.html
+- type: GettingStarted
+  url: https://docs.conversight.ai/platform/getting_started/02_login/login.html
+- type: Pricing
+  url: https://conversight.ai/choose-your-plan/
+- type: SignUp
+  url: https://csnexus.conversight.dev/
+- type: Login
+  url: https://csnexus.conversight.dev/
+- type: Blog
+  url: https://conversight.ai/blog/
+- type: Support
+  url: https://conversight.ai/contact/
+- type: HelpCenter
+  url: https://community.conversight.ai/
+- type: TermsOfService
+  url: https://conversight.ai/terms-of-use-3/
+- type: PrivacyPolicy
+  url: https://conversight.ai/privacy-policy/
+- type: ChangeLog
+  url: https://docs.conversight.ai/release_notes/index.html
+- type: ChangeLog
+  name: ConverSight release notes (structured)
+  url: changelog/conversightai-changelog.yml
+- type: Compliance
+  url: https://conversight.ai/
+- type: Conformance
+  url: conformance/conversightai-conformance.yml
+- type: DomainSecurity
+  url: security/conversightai-domain-security.yml
+- type: LLMsTxt
+  url: llms/conversightai-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

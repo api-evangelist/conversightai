@@ -1,0 +1,43 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.conversight.ai/release_notes/index.html
+scheme: monthly-calendar
+surfaces:
+  web: '2.4.11'
+  mobile: '2.1.1'
+current_version: '2.4.11'
+notes: >-
+  ConverSight publishes month-dated release notes for the Web and Mobile
+  platforms. Web notes are actively maintained (latest March 2026); the recent
+  window is captured below. Versions shown are the surface versions listed on
+  the release-notes index, not per-entry version tags.
+entries:
+- date: '2026-03'
+  surface: web
+  url: https://docs.conversight.ai/release_notes/web/mar26_w.html
+  additions:
+  - In-app Help and Support access
+  - New Supply Assurance App
+  - Data Sync (Beta)
+  highlights:
+  - Real-Time Metrics with TimescaleDB for storyboard responsiveness
+  - Athena IQ access added within LaunchPad
+  - Fishbowl marketplace launch with Decision Intelligence Storyboard
+  - Katana expanded data model and demand forecasting
+  breaking: false
+- date: '2026-02'
+  surface: web
+  url: https://docs.conversight.ai/release_notes/web/feb26_w.html
+  breaking: false
+- date: '2026-01'
+  surface: web
+  url: https://docs.conversight.ai/release_notes/web/jan26_w.html
+  breaking: false
+- date: '2025-12'
+  surface: web
+  url: https://docs.conversight.ai/release_notes/web/dec25_w.html
+  breaking: false
+- date: '2025-11'
+  surface: web
+  url: https://docs.conversight.ai/release_notes/web/nov25_w.html
+  breaking: false
