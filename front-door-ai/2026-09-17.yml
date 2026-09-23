@@ -1,0 +1,34 @@
+# Front Door AI Index — conversightai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: conversightai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: conversight.ai
+  final_host: conversight.ai
+  ownership: own
+  owner: conversightai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 26
+  host_score: 26
+  density: 34.57
+  words: 752
+  tiers:
+    agentic: 9
+    core: 14
+    model: 3
+  ambiguous: 9
+  top_terms:
+    AI: 14
+    agent: 8
+    AI agent: 5
+    AI assistant: 2
+    ChatGPT: 1
+    Claude: 1
+    Gemini: 1
+    agentic: 1
+    autonomous agent: 1
+    intelligence: 1
