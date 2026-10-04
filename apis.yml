@@ -46,7 +46,21 @@ specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 image: https://conversight.ai/wp-content/uploads/2025/07/ConverSight.ai-Logo-Dark-1.webp
+x-docs-platform: sphinx
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-09-24
+x-docs-hosting: aws-cloudfront
 tags:
+- Company
+- Artificial Intelligence
+- Supply Chain
+- Decision Intelligence
+- AI Agents
+- Analytics
+- Data
+- Enterprise
+- Manufacturing
+tags_raw:
 - Company
 - Artificial Intelligence
 - Supply Chain
