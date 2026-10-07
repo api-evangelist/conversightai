@@ -1,0 +1,36 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://conversight.ai/choose-your-plan/
+sources:
+- https://conversight.ai/choose-your-plan/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: Bring Your Own Cloud (BYOC)
+published: false
+note: No numeric price is published on the pricing page; All tiers show 'Contact /for pricing'; no numeric
+  prices. Feature comparison lists quotas only.
+plan_count: 3
+plans:
+- name: Starter
+  price_text: Contact /for pricing
+  period: none
+  included_quota: 1 user included, 2 connectors, 10GB data storage, 20 unit compute credits
+- name: Advanced
+  price_text: Contact /for pricing
+  period: none
+  included_quota: 5 users included, 5 connectors, 100GB data storage, 200 unit compute credits
+- name: Premier
+  price_text: Contact /for pricing
+  period: none
+  included_quota: Unlimited users, connectors, actions, credits, data
+rate_limit_statements:
+- No of Questions 100/day 150/User/day
