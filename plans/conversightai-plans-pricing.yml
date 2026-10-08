@@ -34,3 +34,30 @@ plans:
   included_quota: Unlimited users, connectors, actions, credits, data
 rate_limit_statements:
 - No of Questions 100/day 150/User/day
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units: []
+  plans:
+  - name: Starter
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: Advanced
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: Premier
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
